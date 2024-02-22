@@ -39,7 +39,8 @@ public class BruteSortAndSearch {
   /**
    * Given an array of characters, capitalizes lower character to make the array ALL CAPS.
    * <br>
-   * <b>NOTE</b>: you may NOT only use the number 0 once; use character literals instead of ASCII codes.
+   * <b>NOTE</b>: you may only use the number 0 once and NO other integer literals;
+   * use character literals instead of ASCII codes (e.g., 'A' instead of 65).
    *
    * @param string array of characters to capitalize.
    */
